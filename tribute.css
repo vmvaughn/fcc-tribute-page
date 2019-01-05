@@ -3,9 +3,27 @@ margin: 0;
 padding: 0;
 }
 
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
 #main {
 	background-color: #ebeced;
 }
+
+#title {
+	text-align: center;
+}
+
+#tagline {
+	text-align: center;
+}
+
+#img-div {
+	background-color: white;
+	margin: 10px;
+}
+
 #image {
   max-width: 100%;
   display: block;
@@ -13,7 +31,11 @@ padding: 0;
   margin: auto;
 }
 
-#img-div {
-	background-color: white;
-	margin: 10px;
+#img-caption {
+	text-align: center;
+}
+
+#tribute-info {
+	width: 600px;
+	margin: auto;
 }
