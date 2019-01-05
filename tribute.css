@@ -16,12 +16,15 @@ body {
 	text-align: center;
 	margin: 20px 0;
 	padding: 30px 0 0 0;
+	font-weight: 600;
 
 }
 
 #tagline {
 	text-align: center;
 	margin: 0 0 20px 0;
+	font-weight: 600;
+	font-size: 1.3em;
 }
 
 #img-div {
@@ -52,6 +55,7 @@ body {
 #tribute-info h3 {
 	margin-left: -10px;
 	margin-bottom: 15px;
+	font-weight: 600;
 }
 
 #tribute-info li {
