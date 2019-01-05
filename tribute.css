@@ -9,19 +9,25 @@ body {
 
 #main {
 	background-color: #ebeced;
+	margin: 30px 10px;
 }
 
 #title {
 	text-align: center;
+	margin: 20px 0;
+	padding: 30px 0 0 0;
+
 }
 
 #tagline {
 	text-align: center;
+	margin: 0 0 20px 0;
 }
 
 #img-div {
 	background-color: white;
 	margin: 10px;
+	padding: 5px 0 0 0;
 }
 
 #image {
@@ -33,9 +39,21 @@ body {
 
 #img-caption {
 	text-align: center;
+	margin: 10px 0 0 0;
+	padding: 0 0 10px 0;
 }
 
 #tribute-info {
 	width: 600px;
 	margin: auto;
+	padding: 30px 0 0 0;
+}
+
+#tribute-info h3 {
+	margin-left: -10px;
+	margin-bottom: 15px;
+}
+
+#tribute-info li {
+	margin: 0 0 10px 0;
 }
