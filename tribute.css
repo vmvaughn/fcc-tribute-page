@@ -74,7 +74,7 @@ body {
 
 #wrap-up p:nth-child(3) {
 	text-align: center;
-	margin-bottom: 15px;
+	margin: 0 50px 15px 50px;
 }
 
 #footer {
@@ -82,7 +82,7 @@ body {
 }
 
 #footer p {
-	margin: 20px 0 0 30px;
+	margin: 20px 0 0 50px;
 }
 
 
