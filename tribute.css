@@ -61,3 +61,29 @@ body {
 #tribute-info li {
 	margin: 0 0 10px 0;
 }
+
+#wrap-up blockquote {
+	text-align: center;
+	margin: 30px 0 0 0;
+}
+
+#wrap-up p:nth-child(2) {
+	text-align: center;
+	margin: 5px 0 30px 0;
+}
+
+#wrap-up p:nth-child(3) {
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+#footer {
+	padding-bottom: 30px;
+}
+
+#footer p {
+	margin: 20px 0 0 30px;
+}
+
+
+
